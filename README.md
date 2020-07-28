@@ -4,7 +4,7 @@ Context:
 Fuel Economy data is collected from vehicle testing by the United States Environmental Protection Agency (EPA). The EPA provides this data to the US governemnt each year, which the Department of Energy uses to publish their yearly fuel economy guide. This data is publicly available. 
 
 Project:
-Data for 2008 and 2018 are downloaded, along with documentation detailing the variables contained within, and analysed in a Jupyter notebook. 
+Data for 2008 and 2018 are downloaded, along with documentation detailing the variables contained within, and analysed in a Jupyter notebook. A PDF version can also be found within the project files.
 
 
 Links to referenced data can be found below:
